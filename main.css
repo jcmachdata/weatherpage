@@ -8,14 +8,17 @@ body {
 p {
 
     background-color: white;
-
+    
+    
 }
 
-h1 {
+h3 {
 
     color: aqua;
     background-color: white;
     margin-top: 50px;
+    
+
 }
 
 h2 {
@@ -27,4 +30,17 @@ h2 {
 br {
     background-color: white;
 
+}
+
+.container {
+
+    margin-top: 50px;
+
+
+
+}
+
+img {
+
+    margin-left: 50px;
 }
