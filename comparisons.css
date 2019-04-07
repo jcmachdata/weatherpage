@@ -1,9 +1,16 @@
 
 h1 {
 
-    margin-left: 330px;
     color: red;
     margin-top: 10px;
+
+
+}
+
+.navbar-brand {
+
+    
+    background-color: aqua;
 
 
 }
