@@ -15,9 +15,9 @@ p {
 h3 {
 
     color: aqua;
-    background-color: white;
+    text-align: center;
     margin-top: 50px;
-    
+    background-color: white;
 
 }
 
@@ -35,17 +35,12 @@ br {
 .container {
 
     margin-top: 50px;
-    border-style: solid;
-    border-width: 5px;
-    border-color: black;
+ 
 
 
 }
 
-img {
 
-    margin-left: 50px;
-}
 
 .navbar-brand {
 
@@ -55,3 +50,15 @@ img {
 
 }
 
+.box {
+
+    background-color: white;
+
+
+}
+
+img {
+
+    margin-left: 50px;
+
+}
