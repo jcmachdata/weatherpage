@@ -1,16 +1,16 @@
 
 h1 {
 
-    color: red;
+    color: #0BADA6;
     margin-top: 10px;
-
+    background-color: white;
 
 }
 
 h3 {
 
     text-align: center;
-    color: blue;
+    color: #0BADA6;
     font-weight: bold;
 
 
@@ -28,7 +28,22 @@ img {
 .navbar-brand {
 
     
-    background-color: aqua;
+    background-color:#0BADA6;
 
 
 }
+
+body {
+
+    background-color: #cdcdcd;
+
+
+}
+
+.box {
+
+    background-color: white;
+
+
+}
+
